@@ -1,27 +1,27 @@
-# Essentials
+# 📚 Angular Studies — Module 1
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+This repository contains my notes, code examples, and practice projects from the **first module** of a Udemy Angular course.  
+The goal: strengthen my understanding of Angular fundamentals, one step at a time. 🚀
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## 📦 What's Inside
 
-## Code scaffolding
+- ✏️ **Notes** — Key takeaways from lessons
+- 💻 **Practice code** — Exercises and small projects
+- 🧪 **Experiments** — Trying out concepts in my own way
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🛠 How to Run
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone this repo: **`git clone https://github.com/your-username/your-repo.git`**
+2. Navigate into the folder: **`cd your-repo`**
+3. Install dependencies: **`npm install`**
+4. Run the project: **`ng serve`**
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p align="center" style="color: #888; font-size: 12px;">
+made with ♡ by Richard
+</p>
